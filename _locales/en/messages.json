@@ -1,11 +1,11 @@
 {
   "extensionName": {
-    "message": "name"
+    "message": "ocr-helper"
   },
   "extensionDescription": {
-    "message": "description"
+    "message": "Capture and recognize text from images"
   },
   "extensionActionTitle": {
-    "message": "Tools"
+    "message": "ocr-helper"
   }
 }

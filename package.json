@@ -1,5 +1,5 @@
 {
-  "name": "chrome-extensions",
+  "name": "ocr-helper",
   "version": "1.0.0",
   "description": "chrome-extensions template",
   "main": "index.js",
